@@ -14,6 +14,9 @@ phrase = "It's Dangerous To Go Alone! Take This."
 puts phrase
 end
 
-def
+def any_phrase(phrase)
+end
+any_phrase("")
+
 
 
